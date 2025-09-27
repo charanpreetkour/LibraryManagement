@@ -1,0 +1,28 @@
+1. setup database tables
+2. admin login 
+3. user login 
+4. registration 
+5. recover password 
+6. add book 
+7. delete book 
+8. update book
+9. list all book 
+10. list available book 
+11. issue book 
+12. view issued book done
+13. return book
+14. search book by title
+15. search book by author
+16. view all book
+17. view available book
+18. add book to wishlist
+19. remove book from wishlist
+20. view issued book
+
+
+charan .
+2. admin login
+3. user login
+6. add book
+7. delete book
+11. issue book
